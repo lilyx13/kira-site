@@ -14,5 +14,8 @@
     "autoprefixer": "^10.3.4",
     "html-minifier": "^4.0.0",
     "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.3"
   }
 }
