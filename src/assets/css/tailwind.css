@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Create custom utilities here */
+@layer utilities {
+}
+/* create custom components here */
+@layer components {
+}
